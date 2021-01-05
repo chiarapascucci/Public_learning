@@ -1,2 +1,2 @@
-# Public_learning
-Project to show learning 
+# Public Learning
+Project to record stuff learnt on my course and knitting!
